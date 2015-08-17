@@ -1,9 +1,11 @@
-package com.jpataide.project;
+package com.jpataide.project.view;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import com.jpataide.project.R;
 
 
 public class MainActivity extends ActionBarActivity {
